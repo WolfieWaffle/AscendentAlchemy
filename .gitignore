@@ -1,32 +1,25 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
 
-# Precompiled Headers
-*.gch
-*.pch
+## ForgeGradle
+/run
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
+## intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+/atlassian-ide-plugin.xml
