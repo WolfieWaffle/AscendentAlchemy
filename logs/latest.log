@@ -1,0 +1,35 @@
+[19:58:35] [main/INFO]: Setting user: Player339
+[19:58:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:58:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ascendent Alchemy
+[19:58:50] [Sound Library Loader/INFO]: Sound engine started
+[19:58:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:58:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:58:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ascendent Alchemy
+[19:58:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:58:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:58:58] [Sound Library Loader/INFO]: Sound engine started
+[20:00:00] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:00:00] [Server thread/INFO]: Generating keypair
+[20:00:02] [Server thread/INFO]: Preparing start region for level 0
+[20:00:03] [Server thread/INFO]: Preparing spawn area: 18%
+[20:00:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:00:05] [Server thread/INFO]: Player339[local:E:b3b4bc66] logged in with entity id 288 at (32.92622971195837, 4.0, 208.15160368736858)
+[20:00:05] [Server thread/INFO]: Player339 joined the game
+[20:00:06] [Server thread/INFO]: Saving and pausing game...
+[20:00:07] [Server thread/INFO]: Saving chunks for level 'Alchemy'/Overworld
+[20:00:07] [Server thread/INFO]: Saving chunks for level 'Alchemy'/Nether
+[20:00:07] [Server thread/INFO]: Saving chunks for level 'Alchemy'/The End
+[20:00:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2509ms behind, skipping 50 tick(s)
+[20:00:10] [Server thread/INFO]: Player339 has just earned the achievement [Taking Inventory]
+[20:00:10] [Client thread/INFO]: [CHAT] Player339 has just earned the achievement [Taking Inventory]
+[20:10:42] [Server thread/INFO]: [Player339: Set the time to 0]
+[20:10:42] [Client thread/INFO]: [CHAT] Set the time to 0
+[20:11:34] [Client thread/INFO]: Stopping!
+[20:11:34] [Server thread/INFO]: Stopping server
+[20:11:34] [Server thread/INFO]: Saving players
+[20:11:34] [Server thread/INFO]: Saving worlds
+[20:11:34] [Server thread/INFO]: Saving chunks for level 'Alchemy'/Overworld
+[20:11:35] [Server thread/INFO]: Saving chunks for level 'Alchemy'/Nether
+[20:11:35] [Server thread/INFO]: Saving chunks for level 'Alchemy'/The End
+[20:11:35] [Client Shutdown Thread/INFO]: Stopping server
+[20:11:35] [Client Shutdown Thread/INFO]: Saving players
